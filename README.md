@@ -2,7 +2,7 @@
 
 ### 👤&nbsp; About
 
-Front-end Developer & UI/UX Designer extremely motivated about delivering great experience to users!
+Front-end Developer & UI/UX Designer
 
 ### ✍️&nbsp; Authored Projects
 
