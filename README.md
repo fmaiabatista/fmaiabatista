@@ -2,7 +2,7 @@
 
 ### 👤&nbsp; About
 
-Front-end Developer & UI/UX Specialist extremely motivated about delivering great experience to users!
+Front-end Developer & UI/UX Designer extremely motivated about delivering great experience to users!
 
 ### ✍️&nbsp; Authored Projects
 
