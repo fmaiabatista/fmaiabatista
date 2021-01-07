@@ -13,10 +13,10 @@ Front-end Developer & UI/UX Specialist extremely motivated about delivering grea
 - [GitHub](https://github.com/fmaiabatista/)
 - [CodePen](https://codepen.io/fmaiabatista/)
 
-### 💼&nbsp; Current Work
+### 💼&nbsp; Work
 
-- Front-end Developer & UI/UX Specialist at [Radix Engineering and Software](https://www.linkedin.com/company/radix-engenharia-e-software/)
-- Freelance Work at Sistema Prata
+- Front-end Developer & UI/UX Designer at [Radix Engineering and Software](https://www.linkedin.com/company/radix-engenharia-e-software/)
+- Partner / Front-end Developer & UI/UX Designer at Sistema Prata
 
 ### 🤿&nbsp; Deep Diving
 
@@ -44,5 +44,5 @@ Design
 
 ### 💬&nbsp; Contact
 
+- [E-mail](mailto:hi@felipemaia.com)
 - [LinkedIn](https://www.linkedin.com/in/fmaiabatista/)
-- [Website](https://felipemaia.com)
