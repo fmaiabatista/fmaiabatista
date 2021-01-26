@@ -1,5 +1,8 @@
 # Felipe Maia B V Cruz (@fmaiabatista)
 
+> _You can learn anything, but you can't learn everything.  
+> So accept that and focus on what matters to you._
+
 ### 👤&nbsp; About
 
 Front-end Developer & UI/UX Designer
@@ -16,7 +19,7 @@ Front-end Developer & UI/UX Designer
 ### 💼&nbsp; Work
 
 - Front-end Developer & UI/UX Designer at [Radix Engineering and Software](https://www.linkedin.com/company/radix-engenharia-e-software/)
-- Partner / Front-end Developer & UI/UX Designer at Sistema Prata
+- Partner / Front-end Developer & UI/UX Designer at Banco Prata
 
 ### 🤿&nbsp; Deep Diving
 
