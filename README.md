@@ -5,7 +5,7 @@
 
 ### 👤&nbsp; About
 
-Front-end Developer & UI/UX Designer
+Creative Front-end Developer & UI/UX Designer
 
 ### ✍️&nbsp; Authored Projects
 
@@ -19,8 +19,10 @@ Front-end Developer & UI/UX Designer
 
 ### 💼&nbsp; Work
 
-- Front-end Developer & UI/UX Designer at [Radix Engineering and Software](https://www.linkedin.com/company/radix-engenharia-e-software/)
-- Partner / Front-end Developer & UI/UX Designer at Banco Prata
+- Front-end Developer at [foryouandyourcustomers](https://www.linkedin.com/company/foryouandyourcustomers-bv/)
+- Prev. Front-end Developer & UI/UX Designer at [Radix Engineering and Software](https://www.linkedin.com/company/radix-engenharia-e-software/)
+- Prev. Front-end Developer at [JuryVox](https://www.linkedin.com/company/juryvox/)
+- Prev. WordPress Developer at [Thunder Mustard](https://www.linkedin.com/company/thunder-mustard/)
 
 ### 🤿&nbsp; Deep Diving
 
@@ -48,5 +50,5 @@ Design
 
 ### 💬&nbsp; Contact
 
-- [E-mail](mailto:hi@felipemaia.com)
+- [E-mail](mailto:dev.fmaiabatista@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/fmaiabatista/)
