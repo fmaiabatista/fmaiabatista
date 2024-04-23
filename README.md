@@ -5,7 +5,7 @@
 
 ### 👤&nbsp; About
 
-Creative Developer - Front-end Developer & UI/UX Designer
+Front-end Developer & UI/UX Designer, aspiring "Creative Developer"
 
 ### 🤿&nbsp; Currently Deep Diving
 
