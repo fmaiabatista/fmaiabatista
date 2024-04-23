@@ -5,41 +5,29 @@
 
 ### 👤&nbsp; About
 
-Creative Front-end Developer & UI/UX Designer
+Creative Developer - Front-end Developer & UI/UX Designer
+
+### 🤿&nbsp; Currently Deep Diving
+
+- SVG Animations & Interactions
+- Foundations of Backend Development
 
 ### ✍️&nbsp; Authored Projects
 
+- [Calqui](https://calqui.app)
 - [Copily](https://copily.app)
-- [Twitter Copywork](https://twitter-copywork.netlify.app/)
-
-### 🖼&nbsp; Portfolio
-
-- [GitHub](https://github.com/fmaiabatista/)
-- [CodePen](https://codepen.io/fmaiabatista/)
-
-### 💼&nbsp; Work
-
-- Front-end Developer at [foryouandyourcustomers](https://www.linkedin.com/company/foryouandyourcustomers-bv/)
-- Prev. Front-end Developer & UI/UX Designer at [Radix Engineering and Software](https://www.linkedin.com/company/radix-engenharia-e-software/)
-- Prev. Front-end Developer at [JuryVox](https://www.linkedin.com/company/juryvox/)
-- Prev. WordPress Developer at [Thunder Mustard](https://www.linkedin.com/company/thunder-mustard/)
-
-### 🤿&nbsp; Deep Diving
-
-- NextJS
-- TailwindCSS
+- [Threenslate](https://threenslate.app)
 
 ### 🌐&nbsp; Open Source Contributions
 
 - [reToons](https://github.com/ZakRabe/gtoons)
 - [espanso](https://github.com/federico-terzi/espanso)
 
-### 🤩&nbsp; Favorite Stack
+### 🔨&nbsp; Base Tools
 
 Development
 
-- React
-- NextJS
+- React, NextJS / Svelte, SvelteKit
 - TypeScript
 - TailwindCSS
 - Framer Motion
@@ -47,8 +35,16 @@ Development
 Design
 
 - Figma
+- Adobe Illustrator
+
+### 💼&nbsp; Work
+
+- Senior Front-end Developer at [foryouandyourcustomers](https://www.linkedin.com/company/foryouandyourcustomers-bv/)
+- Prev. Front-end Developer & UI/UX Designer at [Radix Engineering and Software](https://www.linkedin.com/company/radix-engenharia-e-software/)
+- Prev. Front-end Developer at [JuryVox](https://www.linkedin.com/company/juryvox/)
+- Prev. WordPress Developer at [Thunder Mustard](https://www.linkedin.com/company/thunder-mustard/)
 
 ### 💬&nbsp; Contact
 
-- [E-mail](mailto:dev.fmaiabatista@gmail.com)
+- [E-mail](mailto:fmaiabatista@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/fmaiabatista/)
