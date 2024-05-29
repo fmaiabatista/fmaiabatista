@@ -1,48 +1,47 @@
-# Felipe Maia B V Cruz (@fmaiabatista)
+# Felipe Cruz (@fmaiabatista)
 
 > _You can learn anything, but you can't learn everything.  
 > So accept that and focus on what matters to you._
 
 ### 👤&nbsp; About
 
-Front-end Developer & UI/UX Designer, aspiring "Creative Developer"
+Senior Frontend Developer @ foryouandyourcustomers
 
 ### 🤿&nbsp; Currently Deep Diving
 
-- SVG Animations & Interactions
-- Foundations of Backend Development
+- SVG Animations & Interactions (Creative)
+- Database and API Development (Fullstack)
 
 ### ✍️&nbsp; Authored Projects
 
-- [Calqui](https://calqui.app)
-- [Copily](https://copily.app)
-- [Threenslate](https://threenslate.app)
+- [Calqui](https://calqui.app) - Grocery helper, best value and rule of three calculator
+- [Copily](https://copily.app) - Text sharing across devices
+- [Threenslate](https://threenslate.app) - Translate between 3 languages at once
 
 ### 🌐&nbsp; Open Source Contributions
 
 - [reToons](https://github.com/ZakRabe/gtoons)
 - [espanso](https://github.com/federico-terzi/espanso)
 
-### 🔨&nbsp; Base Tools
+### 🔨&nbsp; Tools
 
 Development
 
-- React, NextJS / Svelte, SvelteKit
+- React, NextJS (job) / Svelte, SvelteKit (personal)
 - TypeScript
-- TailwindCSS
+- Tailwind CSS
 - Framer Motion
 
 Design
 
 - Figma
-- Adobe Illustrator
 
 ### 💼&nbsp; Work
 
-- Senior Front-end Developer at [foryouandyourcustomers](https://www.linkedin.com/company/foryouandyourcustomers-bv/)
-- Prev. Front-end Developer & UI/UX Designer at [Radix Engineering and Software](https://www.linkedin.com/company/radix-engenharia-e-software/)
-- Prev. Front-end Developer at [JuryVox](https://www.linkedin.com/company/juryvox/)
-- Prev. WordPress Developer at [Thunder Mustard](https://www.linkedin.com/company/thunder-mustard/)
+- Senior Frontend Developer at [foryouandyourcustomers](https://www.linkedin.com/company/foryouandyourcustomers-bv/) (current)
+- Frontend Developer & UI/UX Designer at [Radix Engineering and Software](https://www.linkedin.com/company/radix-engenharia-e-software/)
+- Frontend Developer at [JuryVox](https://www.linkedin.com/company/juryvox/)
+- WordPress Developer at [Thunder Mustard](https://www.linkedin.com/company/thunder-mustard/)
 
 ### 💬&nbsp; Contact
 
