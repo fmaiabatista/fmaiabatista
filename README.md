@@ -10,7 +10,7 @@ Senior Frontend Developer @ foryouandyourcustomers
 ### 🤿&nbsp; Currently Deep Diving
 
 - SVG Animations & Interactions (Creative)
-- Database and API Development (Fullstack)
+- Databases and Authentication (Fullstack)
 
 ### ✍️&nbsp; Authored Projects
 
