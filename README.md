@@ -7,43 +7,35 @@
 
 Senior Frontend Developer @ foryouandyourcustomers
 
-### 🤿&nbsp; Currently Deep Diving
+### ✍️&nbsp; Author of
 
-- SVG Animations & Interactions (Creative)
-- Databases and Authentication (Fullstack)
-
-### ✍️&nbsp; Authored Projects
-
-- [Calqui](https://calqui.app) - Grocery helper, best value and rule of three calculator
-- [Copily](https://copily.app) - Text sharing across devices
-- [Threenslate](https://threenslate.app) - Translate between 3 languages at once
+- **[Calqui](https://calqui.app)** - Grocery helper, best value and rule of three calculator
+- **[Copily](https://copily.app)** - Text sharing across devices
+- **[Threenslate](https://threenslate.app)** - Translate between 3 languages at once
 
 ### 🌐&nbsp; Open Source Contributions
 
-- [reToons](https://github.com/ZakRabe/gtoons)
+- [OpenSaaS](https://github.com/wasp-lang/open-saas)
 - [espanso](https://github.com/federico-terzi/espanso)
+- [reToons](https://github.com/ZakRabe/gtoons)
 
 ### 🔨&nbsp; Tools
 
 Development
 
-- React, NextJS (job) / Svelte, SvelteKit (personal)
+- React, NextJS (work) / Svelte, SvelteKit (personal)
 - TypeScript
 - Tailwind CSS
 - Framer Motion
 
 Design
 
-- Figma
+- Figma, Pixlr Editor
 
-### 💼&nbsp; Work
+Ideation / Diagramming / Documentation
 
-- Senior Frontend Developer at [foryouandyourcustomers](https://www.linkedin.com/company/foryouandyourcustomers-bv/) (current)
-- Frontend Developer & UI/UX Designer at [Radix Engineering and Software](https://www.linkedin.com/company/radix-engenharia-e-software/)
-- Frontend Developer at [JuryVox](https://www.linkedin.com/company/juryvox/)
-- WordPress Developer at [Thunder Mustard](https://www.linkedin.com/company/thunder-mustard/)
+- Miro, Eraser.io
 
 ### 💬&nbsp; Contact
 
-- [E-mail](mailto:fmaiabatista@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/fmaiabatista/)
