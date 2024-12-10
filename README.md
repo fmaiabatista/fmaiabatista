@@ -28,13 +28,9 @@ Development
 - Tailwind CSS
 - Framer Motion
 
-Design
+Other
 
-- Figma, Pixlr Editor
-
-Ideation / Diagramming / Documentation
-
-- Miro, Eraser.io
+- Figma, Miro, Eraser.io
 
 ### 💬&nbsp; Contact
 
